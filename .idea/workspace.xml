@@ -9,12 +9,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/Step_semester3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/assignment_problems2/PinValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/BankTransactionReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/FileExtensionValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/MaskedPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/StudentRecordParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/Vowel &amp; Consonant Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems3/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems3/IdCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems3/MessWallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems3/PlacementRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems3/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
