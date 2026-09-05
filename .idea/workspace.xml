@@ -5,20 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="217323a0-1839-4bf4-b664-97c32fdad21e" name="Changes" comment="Add empty Java project skeleton">
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/assignment_problems/SeatDuplicationChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/assignment_problems/TypingAccuracyChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/assignment_problems/session_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/assignment_problems/session_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems/BMICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems/FirstNonRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems/ReverseCustomerName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems/ScissorsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Step_semester3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/assignment_problems2/PinValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/BankTransactionReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/FileExtensionValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/MaskedPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/StudentRecordParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/string/class_problems2/Vowel &amp; Consonant Counter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Step_semester3\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,26 +39,26 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "thotakoteswararao6-bot"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;thotakoteswararao6-bot&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/thotakoteswararao6-bot/Step_semester3.git",
-    "accountId": "b63e1f3d-bf86-42e4-b7dc-b8d4b1b6249d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thotakoteswararao6-bot/Step_semester3.git&quot;,
+    &quot;accountId&quot;: &quot;b63e1f3d-bf86-42e4-b7dc-b8d4b1b6249d&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IuNnHdMyJbaubzpZIe13YKWGtp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,14 +66,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ScissorsGame.executor": "Run",
+    "Application.ScissorsGame.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/session__1",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "feature/session__2",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,9 +86,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ScissorsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ScissorsGame" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-25.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="string.class_problems.ScissorsGame" />
-      <module name="Step_semester3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string.class_problems.*" />
@@ -92,11 +100,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ScissorsGame" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Step_semester3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Step_semester3" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
