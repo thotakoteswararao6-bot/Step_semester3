@@ -1,0 +1,4 @@
+package string.assignment_problems11;
+
+public class AttendanceDisorderScore {
+}
